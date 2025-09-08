@@ -1,7 +1,7 @@
 ## Hello 👋
 
 
-- 🔭 I’m currently working on ... a real estate ai agent + fintech app
+- 🔭 I’m currently working on ... a real estate ai agent + ETL pipelines
 - 🌱 I’m currently learning ... python and financial analysis
 - 👯 I’m looking to collaborate on ... python/ml projects
 - 🤔 I’m looking for help with ... API integrations
