@@ -1,6 +1,6 @@
 ## Hello 👋
 
-
+- 😎 Read my full manifesto: https://wassilmian.notion.site/Wassil-Mian-281a2bdbcdbf809eb5cae8176b5f259d
 - 🔭 I’m currently working on ... a real estate ai agent + ETL pipelines
 - 🌱 I’m currently learning ... python and financial analysis
 - 👯 I’m looking to collaborate on ... python/ml projects
